@@ -85,6 +85,6 @@ This analysis highlights several useful retail patterns, including:
 
 ---
 
-**Author:** Nikhil Panda  
+**Author:** Nikhil Pandav  
 **License:** MIT
 
