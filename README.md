@@ -1,8 +1,5 @@
 # Retail Customer Behavior Analysis
 
-**Author:** Nikhil Pandav
-**License:** MIT
-
 This project explores retail customer purchasing behavior using a sample dataset of customer transactions. It combines SQL analysis, Python-based exploration, and a Power BI dashboard to answer practical business questions about customer spending, product preferences, discounts, subscriptions, and segmentation.
 
 ## Project Overview
@@ -85,4 +82,9 @@ This analysis highlights several useful retail patterns, including:
 - some products stand out with stronger review performance
 - discount usage is closely tied to purchase behavior
 - customer segmentation reveals distinct buying patterns across groups
+
+---
+
+**Author:** Nikhil Panda  
+**License:** MIT
 
